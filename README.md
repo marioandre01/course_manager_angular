@@ -23,7 +23,7 @@
 
 Esse projeto foi desenvolvido através do [bootcamp everis Fullstack Developer](https://web.digitalinnovation.one/track/everis-fullstack-developer) oferecido pela empresa Everis em parceria com a [Digital Innovation One - DIO](https://digitalinnovation.one/), um dos maiores ecossistema open education da América Latina. 
 
-Projeto para entender os conceitos e técnicas necesárias para comecar a desenvolver aplicações usando angular 8.
+Projeto para entender os conceitos e técnicas necessárias para começar a desenvolver aplicações usando angular 8.
 
 
 
